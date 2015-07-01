@@ -1,2 +1,2 @@
 # Website-logo-animation
-Animate your website logo on vector image using css.
+Animate your website logo on vector image
